@@ -1,4 +1,4 @@
-# Winning-ELEVEN-Memcard-Editor
+# Winning-Eleven-Memcard-Editor
 Python SOTN Memcard Editor
 
 Thise tools its to Database and .MCR Memcard Editor to can edit database from games PSX
